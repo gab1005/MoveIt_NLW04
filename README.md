@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align='center'>
-  <a href=''>Acessar a aplicação</a>
+  <a href='https://pomodoto-moveit-gab1005.vercel.app/'>Acessar a aplicação</a>
 </h3>
 
 ---
@@ -74,7 +74,7 @@ https://yarnpkg.com/
 https://www.npmjs.com/
 ```
 ---
-Desenvolvido por [Gabriel Sousa](https://github.com/gab1005)
+Desenvolvido por [Gabriel Sousa](https://www.linkedin.com/in/gabriel-sousa-06858719b/)
 
 ---
 ## Licença
