@@ -13,13 +13,13 @@
 
 ---
 ## Indice
-- [Sobre](##-Sobre)
-- [Status do Projeto](##-Status-do-Projeto)
-- [Funções](##-Funções)
-- [Tecnologias](##-Tecnologias)
-- [Como baixar](##-Como-baixar)
-- [Autor](##-Autor)
-- [Licença](##-Licença)
+- [Sobre](#-sobre)
+- [Status do Projeto](#-status-do-projeto)
+- [Funções](#-funções)
+- [Tecnologias](#-tecnologias)
+- [Como baixar](#-como-baixar)
+- [Autor](#-autor)
+- [Licença](#-licença)
 
 ---
 ## Sobre
