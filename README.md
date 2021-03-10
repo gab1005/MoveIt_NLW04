@@ -4,7 +4,7 @@
 </h1>
 
 <h1>
-  <img src="./public/readme_images/moveit_gif.gif" alt="gif moveit" />
+  <img src="./public/readme_images/moveit_gif.gif" alt="Gif moveit" />
 </h1>
 
 <h3 align='center'>
@@ -13,11 +13,13 @@
 
 ---
 ## Indice
-- [Sobre](#-Sobre)
-- [Status do Projeto](#-Status-do-Projeto)
-- [Funções](#-Funções)
-- [Tecnologias](#-Tecnologias)
-- [Como baixar](#-Como-baixar)
+- [Sobre](##-Sobre)
+- [Status do Projeto](##-Status-do-Projeto)
+- [Funções](##-Funções)
+- [Tecnologias](##-Tecnologias)
+- [Como baixar](##-Como-baixar)
+- [Autor](##-Autor)
+- [Licença](##-Licença)
 
 ---
 ## Sobre
@@ -74,6 +76,7 @@ https://yarnpkg.com/
 https://www.npmjs.com/
 ```
 ---
+## Autor
 Desenvolvido por [Gabriel Sousa](https://www.linkedin.com/in/gabriel-sousa-06858719b/)
 
 ---
