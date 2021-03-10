@@ -75,3 +75,7 @@ https://www.npmjs.com/
 ```
 ---
 Desenvolvido por [Gabriel Sousa](https://github.com/gab1005)
+
+---
+## Licença
+Este projeto esta sobe a licença [MIT](./LICENSE).
