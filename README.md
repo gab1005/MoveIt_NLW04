@@ -13,9 +13,9 @@
 
 ---
 ## Indice
-- [Sobre](#-sobre)
+- [Sobre](#-Sobre)
 - [Status do Projeto](#-status-do-projeto)
-- [Funções](#-funções)
+- [Funções](#-Funções)
 - [Tecnologias](#-tecnologias)
 - [Como baixar](#-como-baixar)
 - [Autor](#-autor)
