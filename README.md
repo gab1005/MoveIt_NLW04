@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align='center'>
-  <a href='https://pomodoto-moveit-gab1005.vercel.app/'>Acessar a aplicação</a>
+  <a href='https://pomodoto-moveit-gab1005.vercel.app/' target="_blank">Acessar a aplicação</a>
 </h3>
 
 ---
@@ -39,9 +39,9 @@ Em andamento
 
 ---
 ## Tecnologias
-- [Next.js](https://nextjs.org/)
-- [React.js](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- <a href="https://nextjs.org/" target="_blank">Next.js</a>
+- <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a>
+- <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
 
 ## Como Baixar
 ```bash
@@ -77,7 +77,7 @@ https://www.npmjs.com/
 ```
 ---
 ## Autor
-Desenvolvido por [Gabriel Sousa](https://www.linkedin.com/in/gabriel-sousa-06858719b/)
+Desenvolvido por <a href="https://www.linkedin.com/in/gabriel-sousa-06858719b/" target="_blank">Gabriel Sousa</a>
 
 ---
 ## Licença
