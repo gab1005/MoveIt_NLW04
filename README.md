@@ -23,7 +23,7 @@
 
 ---
 ## Sobre
-Moveit é uma aplicação feita durante a Next Level Week (NLW) pela [RocketSeat](https://rocketseat.com.br/), seu objetivo é ser uma aplicação do estilo pomodoro, com intervalos feitos por exercícios de relaxamento muscular ou relaxamento para os olhos.
+Moveit é uma aplicação feita durante a Next Level Week (NLW) pela <a href="https://rocketseat.com.br/" target="_blank">RocketSeat</a>, seu objetivo é ser uma aplicação do estilo pomodoro, com intervalos feitos por exercícios de relaxamento muscular ou relaxamento para os olhos.
 
 ---
 ## Status do Projeto
