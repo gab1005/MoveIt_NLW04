@@ -77,7 +77,7 @@ https://www.npmjs.com/
 ```
 ---
 ## Autor
-Desenvolvido por <a href="https://www.linkedin.com/in/gabriel-sousa-06858719b/" target="_blank">Gabriel Sousa</a>
+Desenvolvido por <a href="https://www.linkedin.com/in/sousaggabriel/" target="_blank">Gabriel Sousa</a>
 
 ---
 ## Licença
